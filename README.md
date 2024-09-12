@@ -24,8 +24,6 @@ In your cloned repository, navigate to the project directory.
 Open or create the CONTRIBUTORS.md file.
 Add your name and a short bio to the file in the following format:
 
-markdown
-Copy code
 ## Nicholas Ferreira
 - Favorite Language: Python enthusiast 🐍
 - Why I'm using Git/GitHub: Learning Git to contribute to projects that will help change the world!
@@ -34,24 +32,26 @@ Copy code
 Step 3: Stage and Commit Your Changes
 After editing CONTRIBUTORS.md, stage your changes:
 
-bash
+```bash
 git add CONTRIBUTORS.md
+```
 Commit your changes with a message:
-bash
-Copy code
+```bash
 git commit -m "Added my name to the contributors list"
+```
 Step 4: Push Changes or Create a Pull Request
 If you cloned the repo and have write access, push your changes directly:
 
-bash
+```bash
 git push origin main
-
+```
 If you forked the repo, push to your fork and then create a Pull Request:
 
 Push changes to your fork:
-bash
-Copy code
+
+```bash
 git push origin main
+```
 Go to your fork on GitHub and click the "Compare & pull request" button to submit a PR to the original repository.
 Step 5: Wait for Your Changes to Be Merged!
 I'll review the pull requests and merge your changes into the project. 🎉
