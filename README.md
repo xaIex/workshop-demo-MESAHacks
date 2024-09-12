@@ -1,4 +1,5 @@
 🚀 Workshop Demo: Git & GitHub Hands-On Practice
+
 Welcome to the Git & GitHub Workshop Demo! This repository is designed to help you practice using Git and GitHub by making simple contributions and collaborating with others. We'll go through forking, cloning, making commits, and submitting pull requests.
 
 📝 Instructions for Contributing
@@ -35,10 +36,13 @@ After editing CONTRIBUTORS.md, stage your changes:
 ```bash
 git add CONTRIBUTORS.md
 ```
+
 Commit your changes with a message:
+
 ```bash
 git commit -m "Added my name to the contributors list"
 ```
+
 Step 4: Push Changes or Create a Pull Request
 If you cloned the repo and have write access, push your changes directly:
 
@@ -52,6 +56,7 @@ Push changes to your fork:
 ```bash
 git push origin main
 ```
+
 Go to your fork on GitHub and click the "Compare & pull request" button to submit a PR to the original repository.
 Step 5: Wait for Your Changes to Be Merged!
 I'll review the pull requests and merge your changes into the project. 🎉
