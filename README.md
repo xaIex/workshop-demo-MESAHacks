@@ -27,8 +27,7 @@ Add your name and a short bio to the file in the following format:
 
 ## Nicholas Ferreira
 - Favorite Language: Python enthusiast 🐍
-- Why I'm using Git/GitHub: Learning Git to contribute to projects that will help change the world!
-- Fun fact: I love horror movies and horror video games!
+-What I want to do in the future: I want to pursue a Master's/PhD and do research that will change the world!
 
 Step 3: Stage and Commit Your Changes
 After editing CONTRIBUTORS.md, stage your changes:
