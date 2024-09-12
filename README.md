@@ -6,17 +6,17 @@ Follow the steps below to get started with contributing to this project:
 
 Step 1: Clone or Fork the Repository
 Clone the repository if you have push access:
-
-```bash
 Copy code
+```bash
+
 git clone https://github.com/NFerreira98/workshop-demo-MESAHacks.git 
 ```
 OR
 
 Fork this repository to your own GitHub account, then clone it:
-
-```bash
 Copy code
+```bash
+
 git clone https://github.com/NFerreira98/workshop-demo-MESAHacks.git
 ```
 Step 2: Create or Edit the CONTRIBUTORS.md File
