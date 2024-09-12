@@ -58,6 +58,6 @@ git push origin main
 ```
 
 Go to your fork on GitHub and click the "Compare & pull request" button to submit a PR to the original repository.
-Step 5: Wait for Your Changes to Be Merged!
 
+Step 5: Wait for Your Changes to Be Merged!
 I'll review the pull requests and merge your changes into the project. 🎉
