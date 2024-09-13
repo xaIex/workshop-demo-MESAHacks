@@ -16,7 +16,7 @@ Step 2. Clone the repo locally
 Step 2.5. Clone the code from your fork
 
 ```bash
-https://github.com/NFerreira98/workshop-demo-MESAHacks.git
+git clone https://github.com/NFerreira98/workshop-demo-MESAHacks.git
 
 ```
 
