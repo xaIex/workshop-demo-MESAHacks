@@ -31,6 +31,7 @@ Add your name and a short bio to the file in the following format:
 - Fun Fact: I love horror games/movies!
 
 Step 3: Stage and Commit Your Changes
+
 After creating and saving the file, stage your changes:
 
 ```bash
