@@ -5,22 +5,15 @@ Welcome to the Git & GitHub Workshop Demo! This repository is designed to help y
 📝 Instructions for Contributing
 Follow the steps below to get started with contributing to this project:
 
-Step 1: Clone or Fork the Repository
-Clone the repository if you have push access:
+Step 1: Fork the Repository
+![image](https://github.com/user-attachments/assets/794d45e1-253e-4aac-b404-efd5c2b6143f)
 
-```bash
+Step 2. Clone the repo locally
+![image](https://github.com/user-attachments/assets/b1dbfb2a-981d-48ad-9305-33e2fe2407c9)
+![image](https://github.com/user-attachments/assets/beaeac61-873a-4872-bb1f-d1a1a87e87b3)
 
-git clone https://github.com/NFerreira98/workshop-demo-MESAHacks.git 
-```
-OR
 
-Fork this repository to your own GitHub account, then clone it:
-
-```bash
-
-git clone https://github.com/NFerreira98/workshop-demo-MESAHacks.git
-```
-Step 2: Create a "NAME-HERE.md" file (e.g. NickFerreira.md)
+Step 3: Create a "NAME-HERE.md" file (e.g. NickFerreira.md)
 In your cloned repository, navigate to the project directory.
 Create the <NAME-HERE>.md file.
 Add your name and a short bio to the file in the following format:
@@ -30,7 +23,7 @@ Add your name and a short bio to the file in the following format:
 - What I want to do in the future: I want to pursue a Master's/PhD and do research that will change the world!
 - Fun Fact: I love horror games/movies!
 
-Step 3: Stage and Commit Your Changes
+Step 4: Stage and Commit Your Changes
 
 After creating and saving the file, stage your changes:
 
@@ -44,7 +37,7 @@ Commit your changes with a message:
 git commit -m "Added file with my info to the project"
 ```
 
-Step 4: Push Changes or Create a Pull Request
+Step 5: Push Changes or Create a Pull Request
 If you cloned the repo and have write access, push your changes directly:
 
 ```bash
