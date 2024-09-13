@@ -20,7 +20,7 @@ Fork this repository to your own GitHub account, then clone it:
 
 git clone https://github.com/NFerreira98/workshop-demo-MESAHacks.git
 ```
-Step 2: Create a "<NAME-HERE>.md" file (e.g. NickFerreira.md)
+Step 2: Create a "NAME-HERE.md" file (e.g. NickFerreira.md)
 In your cloned repository, navigate to the project directory.
 Create the <NAME-HERE>.md file.
 Add your name and a short bio to the file in the following format:
