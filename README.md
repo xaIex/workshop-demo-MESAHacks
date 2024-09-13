@@ -20,9 +20,9 @@ Fork this repository to your own GitHub account, then clone it:
 
 git clone https://github.com/NFerreira98/workshop-demo-MESAHacks.git
 ```
-Step 2: Edit the CONTRIBUTORS.md File
+Step 2: Create a <NAME-HERE>.md file (e.g. NickFerreira.md)
 In your cloned repository, navigate to the project directory.
-Open or create the CONTRIBUTORS.md file.
+Create the <NAME-HERE>.md file.
 Add your name and a short bio to the file in the following format:
 
 ## Nicholas Ferreira
@@ -30,16 +30,16 @@ Add your name and a short bio to the file in the following format:
 -What I want to do in the future: I want to pursue a Master's/PhD and do research that will change the world!
 
 Step 3: Stage and Commit Your Changes
-After editing CONTRIBUTORS.md, stage your changes:
+After creating and saving the file, stage your changes:
 
 ```bash
-git add CONTRIBUTORS.md
+git add <NAME-HERE>.md
 ```
 
 Commit your changes with a message:
 
 ```bash
-git commit -m "Added my name to the contributors list"
+git commit -m "Added file with my info to the project"
 ```
 
 Step 4: Push Changes or Create a Pull Request
