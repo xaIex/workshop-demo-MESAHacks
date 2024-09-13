@@ -10,7 +10,15 @@ Step 1: Fork the Repository
 
 Step 2. Clone the repo locally
 ![image](https://github.com/user-attachments/assets/b1dbfb2a-981d-48ad-9305-33e2fe2407c9)
+
 ![image](https://github.com/user-attachments/assets/beaeac61-873a-4872-bb1f-d1a1a87e87b3)
+
+Step 2.5. Clone the code from your fork
+
+```bash
+https://github.com/NFerreira98/workshop-demo-MESAHacks.git
+
+```
 
 
 Step 3: Create a "NAME-HERE.md" file (e.g. NickFerreira.md)
