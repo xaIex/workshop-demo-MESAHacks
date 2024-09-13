@@ -36,7 +36,7 @@ Step 4: Stage and Commit Your Changes
 After creating and saving the file, stage your changes:
 
 ```bash
-git add <NAME-HERE>.md
+git add NAME-HERE.md
 ```
 
 Commit your changes with a message:
