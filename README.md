@@ -28,7 +28,7 @@ Add your name and a short bio to the file in the following format:
 ## Nicholas Ferreira
 - Favorite Language: Python enthusiast 🐍
 - What I want to do in the future: I want to pursue a Master's/PhD and do research that will change the world!
-- I love horror games/movies!
+- Fun Fact: I love horror games/movies!
 
 Step 3: Stage and Commit Your Changes
 After creating and saving the file, stage your changes:
