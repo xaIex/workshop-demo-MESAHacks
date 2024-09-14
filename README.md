@@ -3,6 +3,7 @@
 Welcome to the Git & GitHub Workshop Demo! This repository is designed to help you practice using Git and GitHub by making simple contributions and collaborating with others. We'll go through forking, cloning, making commits, and submitting pull requests.
 
 📝 Instructions for contributing
+
 Follow the steps below to get started with contributing to this project:
 
 Step 1: Fork the Repository
@@ -24,6 +25,7 @@ git clone https://github.com/NFerreira98/workshop-demo-MESAHacks.git
 Step 3: Create a "NAME-HERE.md" file (e.g. NickFerreira.md)
 In your cloned repository, navigate to the project directory.
 Create the <NAME-HERE>.md file.
+
 Add your name and a short bio to the file in the following format:
 
 ## Nicholas Ferreira
