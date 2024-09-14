@@ -2,7 +2,7 @@
 
 Welcome to the Git & GitHub Workshop Demo! This repository is designed to help you practice using Git and GitHub by making simple contributions and collaborating with others. We'll go through forking, cloning, making commits, and submitting pull requests.
 
-📝 Instructions for Contributing
+📝 Instructions for contributing
 Follow the steps below to get started with contributing to this project:
 
 Step 1: Fork the Repository
